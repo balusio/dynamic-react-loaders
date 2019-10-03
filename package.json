@@ -1,0 +1,32 @@
+{
+  "name": "dynamic-react-loaders",
+  "version": "1.0.0",
+  "description": "a dynamic loader",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balusio/dynamic-react-loaders.git"
+  },
+  "keywords": [
+    "react",
+    "dynamic",
+    "load"
+  ],
+  "author": "@balusio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balusio/dynamic-react-loaders/issues"
+  },
+  "homepage": "https://github.com/balusio/dynamic-react-loaders#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "rollup": "^1.22.0"
+  },
+  "dependencies": {
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  }
+}
